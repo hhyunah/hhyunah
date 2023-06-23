@@ -72,3 +72,13 @@ Here are some ideas to get you started:
     <li>PDF: http://hanyang.dcollection.net/common/orgView/200000577980</li>
   </ul>
 </div>
+
+</br>
+
+<div>
+  <h3>KCGS 2021 Dec - Paper</h3>
+  <li><b>삼각형 메쉬로 이루어진 3D 모델의 변형을위한 IK 계산 가속화</b></li>
+  <ul>
+    <li>Repo: https://doi.org/10.15701/kcgs.2021.27.5.1</li>
+  </ul>
+</div>
