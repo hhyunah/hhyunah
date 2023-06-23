@@ -84,11 +84,16 @@ Here are some ideas to get you started:
 </br>
 
 <div>
-  <h3>Web Project (E-commerce)</h3>
-  <li><b>Esteem Up</b> - (payment page, mypage)</li>
+  <h3>Web Projects</h3>
+  <li><b>Esteem Up (E-commerse)</b> - (payment page, mypage)</li>
   <ul>
     <li>Url: http://esteemup.s3-website.ap-northeast-2.amazonaws.com/</li>
   </ul>
+  </br>
+  <li><b>오늘뭐입지 (Community)</b> - (Feed component, Post Detail page)</li>
+<!--   <ul>
+    <li>Url: http://esteemup.s3-website.ap-northeast-2.amazonaws.com/</li>
+  </ul> -->
 </div>
 
 </br>
