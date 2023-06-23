@@ -3,7 +3,7 @@
 ### Hi there 👋
 ### I want to be a developer who implements all visible interactions!!
 - **Computer Graphics**: Client Developer
-- **Web**: Frontedn Developer
+- **Web**: Frontend Developer
 </br>
 
 <!--
