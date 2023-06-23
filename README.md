@@ -73,7 +73,6 @@ Here are some ideas to get you started:
   </ul>
 </div>
 
-</br>
 
 <div>
   <h3>Korea Computer Graphics Society(KCGS) 2021 Dec - Paper</h3>
@@ -82,6 +81,8 @@ Here are some ideas to get you started:
     <li>Repo: https://doi.org/10.15701/kcgs.2021.27.5.1</li>
   </ul>
 </div>
+
+</br>
 
 ## Archive
 
