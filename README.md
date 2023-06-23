@@ -66,8 +66,9 @@ Here are some ideas to get you started:
 
 <div>
   <h3>Master's Thesis</h3>
-  <li>An Accelerated IK Solver for Deformation of 3D Models with Triangular Meshes</li>
+  <li><b>An Accelerated IK Solver for Deformation of 3D Models with Triangular Meshes</b>b></li>
   <ul>
-    <li>repo: http://hanyang.dcollection.net/common/orgView/200000577980</li>
+    <li>Repo: http://hanyang.dcollection.net/common/orgView/200000577980</li>
+    <li>PDF: https://repository.hanyang.ac.kr/handle/20.500.11754/167478</li>
   </ul>
 </div>
