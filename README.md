@@ -85,4 +85,5 @@ Here are some ideas to get you started:
 
 ## Archive
 
-<a href="https://shine-quit-d08.notion.site/2460dfb7265a4edea6c7b8c7c1e5b089?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=git&logoColor=white"></a>
+<a href="https://shine-quit-d08.notion.site/2460dfb7265a4edea6c7b8c7c1e5b089?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"></a>
+<a href="https://blog.naver.com/o0live"><img src="https://img.shields.io/badge/naver-03C75A?style=for-the-badge&logo=naver&logoColor=white"></a>
