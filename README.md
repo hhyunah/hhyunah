@@ -2,8 +2,8 @@
 
 ### Hi there 👋
 ### I want to be a developer who implements all visible interactions!!
-- Computer Graphics Client Developter
-- Web Frontend Developer
+- Computer Graphics: Client Developter
+- Web: Frontend Developer
 
 <!--
 **hhyunah/hhyunah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
