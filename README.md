@@ -3,7 +3,7 @@
 ### Hi there 👋
 ### I want to be a developer who implements all visible interactions!!
 - **Computer Graphics**: Client Developer
-- **Web**:_Frontend Developer_
+- **Web**: Frontedn Developer
 
 <!--
 **hhyunah/hhyunah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,5 +20,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-hello
+## Skills
+
+## Tools
+
+## Projects
 
