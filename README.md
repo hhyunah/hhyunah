@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 ### I want to be a developer who implements all visible interactions!!
-- **Computer Graphics**: Client Developter
+- **Computer Graphics**: Client Developer
 - **Web**: Frontend Developer
 
 <!--
