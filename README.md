@@ -81,10 +81,14 @@ Here are some ideas to get you started:
     <li>Repo: https://doi.org/10.15701/kcgs.2021.27.5.1</li>
   </ul>
 </div>
+</br>
 
 <div>
-  <h3>EsteemUp</h3>
-  <li>Url: http://esteemup.s3-website.ap-northeast-2.amazonaws.com/</li>
+  <h3>Web Project (E-commerce)</h3>
+  <li><b>Esteem Up</b> - (payment page, mypage)</li>
+  <ul>
+    <li>Url: http://esteemup.s3-website.ap-northeast-2.amazonaws.com/</li>
+  </ul>
 </div>
 
 </br>
