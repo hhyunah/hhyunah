@@ -76,7 +76,7 @@ Here are some ideas to get you started:
 </br>
 
 <div>
-  <h3>KCGS 2021 Dec - Paper</h3>
+  <h3>Korea Computer Graphics Society(KCGS) 2021 Dec - Paper</h3>
   <li><b>삼각형 메쉬로 이루어진 3D 모델의 변형을위한 IK 계산 가속화</b></li>
   <ul>
     <li>Repo: https://doi.org/10.15701/kcgs.2021.27.5.1</li>
