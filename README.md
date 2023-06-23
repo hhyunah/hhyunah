@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 ## Skills
 
 - **Language**
+</br>
   <div>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
