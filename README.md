@@ -1,6 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=C3E5AE&height=300&section=header&text=Hyunah+Park&fontSize=90)
 
 ### Hi there 👋
+### I want to be a developer who implements all visible interactions!!
+
+## Computer Graphics Client Developer
+## Frontend Developer
 
 <!--
 **hhyunah/hhyunah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
