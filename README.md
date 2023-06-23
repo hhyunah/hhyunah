@@ -82,3 +82,7 @@ Here are some ideas to get you started:
     <li>Repo: https://doi.org/10.15701/kcgs.2021.27.5.1</li>
   </ul>
 </div>
+
+## Archive
+
+<a href="https://shine-quit-d08.notion.site/2460dfb7265a4edea6c7b8c7c1e5b089?pvs=4"><img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=git&logoColor=white"></a>
