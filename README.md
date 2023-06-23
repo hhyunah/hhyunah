@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=C3E5AE&height=300&section=header&text=Hyunah+Park%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=C3E5AE&height=300&section=header&text=Hyunah+Park&fontSize=90)
 
 ### Hi there 👋
 
