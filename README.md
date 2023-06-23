@@ -72,7 +72,7 @@ Here are some ideas to get you started:
     <li>PDF: http://hanyang.dcollection.net/common/orgView/200000577980</li>
   </ul>
 </div>
-
+</br>
 
 <div>
   <h3>Korea Computer Graphics Society(KCGS) 2021 Dec - Paper</h3>
