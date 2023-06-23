@@ -65,6 +65,7 @@ Here are some ideas to get you started:
 ## Projects
 
 - Master's Thesis
-An Accelerated IK Solver for Deformation of 3D Models with Triangular Meshes
-http://hanyang.dcollection.net/common/orgView/200000577980
+<div>An Accelerated IK Solver for Deformation of 3D Models with Triangular Meshes</div>
+repo: http://hanyang.dcollection.net/common/orgView/200000577980
+pdf: https://repository.hanyang.ac.kr/handle/20.500.11754/167478
 
