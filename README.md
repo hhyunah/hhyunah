@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 ## Skills
 
-<div>**Language**</div>
+<div><h1>Language</h1></div>
   <div>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white">
     <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white">
