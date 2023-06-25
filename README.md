@@ -91,9 +91,9 @@ Here are some ideas to get you started:
   </ul>
   </br>
   <li><b>오늘뭐입지 (Community)</b> - (Feed component, Post Detail page)</li>
-<!--   <ul>
-    <li>Url: http://esteemup.s3-website.ap-northeast-2.amazonaws.com/</li>
-  </ul> -->
+  <ul>
+    <li>Url: http://my-ootd.s3-website.ap-northeast-2.amazonaws.com/</li>
+  </ul>
 </div>
 
 </br>
